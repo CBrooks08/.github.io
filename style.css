@@ -300,7 +300,7 @@ footer > p {
 }
 
 footer a {
-  color: grey;
+  color: slategrey;
 }
 @media only screen and (max-width: 600px) {
   .footer-container{
